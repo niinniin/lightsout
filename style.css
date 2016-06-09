@@ -1,0 +1,14 @@
+table{
+    margin: auto;
+}
+
+
+
+.kwadrat {
+    width: 50px;
+    border: 1px solid black;
+}
+
+.row {
+    height: 50px;
+}
